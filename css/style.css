@@ -1,4 +1,5 @@
 body,fieldset,ol,ul,h1,h2,input{font-family:Arial;margin:0;padding:10;color:#333}
+span{align-self: auto}
 body{font-size:75%}
 fieldset{width:100%;margin:0 auto;border:none}
 ol,ul{list-style-type:none}
