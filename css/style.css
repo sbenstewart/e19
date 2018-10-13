@@ -6,6 +6,7 @@ h1{padding:30px 0 30px 140px;margin-top:10px;font-size:2.6em;background-image:ur
 h2{font-size:1.4em;margin-bottom:15px}
 label{display:inline-block;width:10em;font-weight:bold}
 button{border:1px solid #999;border-radius:3px;}
+input{height: 50px;padding: 5px;width: 100px;}
 button span{display:block;padding:5px 5px 5px 20px;background-position:left center;background-repeat:no-repeat}
 #reset{float:right}
 #save span{background-image:url(../img/save.png)}
