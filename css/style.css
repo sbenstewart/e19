@@ -1,11 +1,10 @@
 body,fieldset,ol,ul,h1,h2,input{font-family:Arial;margin:0;padding:10;color:#333}
-span{align-self: auto}
 body{font-size:75%}
 fieldset{width:100%;margin:0 auto;border:none}
 ol,ul{list-style-type:none}
 h1{padding:30px 0 30px 140px;margin-top:10px;font-size:2.6em;background-image:url(../img/icon_128.png);background-position:left top;background-repeat:no-repeat}
 h2{font-size:1.4em;margin-bottom:15px}
-label{display:inline-block;width:10em;font-weight:bold}
+label{display:inline-block;vertical-align: top;width:10em;font-weight:bold}
 button{border:1px solid #999;border-radius:3px;}
 input{height: 50px;padding: 5px;width: 100px;}
 button span{display:block;padding:5px 5px 5px 20px;background-position:left center;background-repeat:no-repeat}
