@@ -13,4 +13,4 @@ We as the team who developed **e19** faced serious issues regarding our producti
 # Roadmap
 To load the link into a tooltip for easier access.
 <br>
-**Have a greats day :)**
+**Have a great day :)**
